@@ -1,0 +1,40 @@
+#HEADER;WANDA CABLING REPORT;RAPPORT CABLING WANDA
+#PAGEGARDETITLE;PROJECT §; PROJET §
+#TABLECONTENT;Table of content;Table des matières
+#TABLECONTENTMSG;"Table of content - Please right-click and choose ""Update fields"".";"Table des matières - Click-Droit et  et sélectionner ""Mettre à jour champ"" "
+#NB_BUILDING;Project contains § building(s).;Le project contient § bâtiment(s).
+#GENERALITIES;. Generalities;. Généralités
+#TECHNOUSED;Technologies used in Building;Technologies utilisées dans le bâtiment
+#MODELPARAMETER;Propagation model parameters;Paramètres du modèle de propagation
+#LOSSWALL;Losses in walls and slabs;Pertes dans les murs et dalles
+#CABLINGDETAIL;Detail of cabling equipment;Caractéristique de cabling
+#DESCRIPTION;Description;Description
+#TECHNOTITRE;§ Bandwidth §  MHz Band §;§ Bande passante §  MHz Bande §
+#GLOBALVIEW;§  :  Global view;§  :  Vue d'ensemble
+#COVERAGEPARAMETER;Coverage parameters;Paramètres de couverture
+#NAME;Name;Nom
+#ALTITUDE;Altitude;Altitude
+#HEIGHT;Height;Hauteur
+#WALLNB;Walls number;Nb murs
+#SLABNB;Slabs number;Nb dalles
+#ANTENNANB;Antennas number;Nb antennes
+#COVERAGENB;Coverages number;Nb couvertures
+#ANTENNA;Antenna;Antenne
+#ANTENNAS;Antennas;Antennes
+#DEVICE;Device;Device
+#CABLE;Cable;Cable
+#SUPPLIER;Supplier;Fournisseur
+#NUMBER;Number;Nombre
+#LENGTH;Length;Longueur
+#LENGTHFLOOR;Length in this floor;Longueur dans l'étage
+#UNITPRICE;Unit price;Seul prix
+#TOTALPRICE;Total Price;Prix total
+#EIRP;EIRP;PIRE
+#CHANNEL;Chan;Canal
+#HAPERT;H_apert;H_ouv.
+#VAPERT;V_apert;V_ouv.
+#FURNITURELOSS;Furniture loss;Perte meubles
+#BANDWIDTH;Bandwidth;Bande passante
+#BAND;Band;Bande passante
+#REFLECTIONFACTOR;Reflection factor;Facteur réflexion
+#THICKNESS;Thickness;Epaisseur

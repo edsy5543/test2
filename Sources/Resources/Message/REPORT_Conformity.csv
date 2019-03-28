@@ -1,0 +1,33 @@
+#HEADER;CONFORMITY WIFI REPORT;RECETTE RADIO WIFI
+#PAGEGARDETITLE;PROJECT §; PROJET §
+#TABLECONTENT;Table of content;Table des matières
+#TABLECONTENTMSG;"Table of content - Please right-click and choose ""Update fields"".";"Table des matières - Click-Droit et  et sélectionner ""Mettre à jour champ"" "
+#TITLE_1;Measurement report;Rapport de mesures
+#TITLE_2;Qualitative report;Rapport qualitatif
+#TITLE_3;Detailed measures;Détail des mesures
+#TITLE_4;Summary;Conclusion
+#TITLE_2_1;Quantitative report;Rapport quantitatif
+#TITLE_2_2;Qualitative report;Rapport qualitatif
+#FREQUENCYPARAMETER;Frequency § : Effective and expected measurement number;Fréquence § : Paramètres de la zone et nombre de mesures valides
+#TABLEPARAMETERPARAMETER;Parameters ;paramètres 
+#TABLEPARAMETEREXPECTED;Expected value ;Valeur attendue 
+#TABLEPARAMETERMEASURENUMBER;Measures ok ;Mesures ok 
+#TABLEPARAMETERTOTAL;Global;Global
+#TABLEPARAMETERZONE;Services area ;Zone de services 
+#TABLEDETAILMEASURE;Measure Point ;Point Mesure 
+#TABLEDETAILBANDE;Band ;Bande 
+#TABLEDETAILAP;Ap num ;Nb Aps 
+#TABLEDETAILSINR;SINR ;SINR 
+#TABLEDETAILPOWER;Best Power ;Puissance max 
+#TABLEDETAILVALID;Ok ;Ok
+#TABLEDETAILEXPECTED;Expected;Attendue
+#TABLEDETAILNOSURVEY;No consider;Pas pris en compte
+
+#APNUMBER;Aps number;Nombre Aps
+#POWER;Received power (dbm); Puissance reçue (dbm);
+#SINR;Sinr (dB);Sinr (dB)
+#RATE;Rate (Mbs);Débit (Mbs)
+#FREQUENCYNOSURVEY;Unsupervised frequency;Fréquence non surveillée
+#FREQUENCYNOMEASURE;No measure point in §;Pas de point de mesure pour §
+#GENERALITIES;. Generalities;. Généralités
+
